@@ -1,3 +1,4 @@
+package PC;
 public class CompObjects {
 	public static void main(String[] args) {
 		Computer hp = new Computer();
